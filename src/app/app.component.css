@@ -1,0 +1,12 @@
+form{
+    height: 300px;
+    width: 300px;
+    border: 3px solid rgba(59, 221, 10, 0.212);
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+  }
+  h1 {
+    color: aliceblue;
+  }
